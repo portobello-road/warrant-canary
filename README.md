@@ -13,7 +13,7 @@ Portobello Road.
 Principle contributors to Portobello Road will in
 fact comply with such warrants and their provision for secrecy.
 
-As an addtional threat, formal, informal and illegal activites
+As an additional threat, formal, informal and illegal activities
 by some entities may force the inclusion of a 'back door' or
 other vulnerability in Portobello Road systems or protocols
 by principle contributors which may compromise or otherwise
@@ -59,7 +59,7 @@ Keys which have signed more than one release are automatically suspect and can
 be considered to have been revoked.
 
 Any changes in this repository should be signed and this message should also be
-gpg signed. If changes are made to this repository which are not signed and
+GPG signed. If changes are made to this repository which are not signed and
 this message is not signed by 81303E6A the entire project is suspect.
 
 All releases must be signed and must include a specified news headline
