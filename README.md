@@ -62,8 +62,13 @@ Any changes in this repository should be signed and this message should also be
 gpg signed. If changes are made to this repository which are not signed and
 this message is not signed by 81303E6A the entire project is suspect.
 
+All releases must be signed and must include a specified news headline
+at the bottom of the README.md file to ensure the release was not
+generated at some point in the past and then released at the appropriate time.
+
 ## Public Key 81303E6A
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
@@ -598,3 +603,4 @@ sgqHWj+a8OPWSfjlRgWNqCwM+TjhAJNc6PIKimgdCc4IfH/Glbyp0gq4TNUQxW65
 jbnqvMTs00gIgIpn3j9nf74i4f2sHh0=
 =5P8b
 -----END PGP PUBLIC KEY BLOCK-----
+```
