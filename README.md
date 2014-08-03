@@ -20,8 +20,7 @@ by principle contributors which may compromise or otherwise
 damage users of Portobello Road systems.
 
 Portobello Road principle contributors will also make
-available, on all significant source code commits and
-merges as well as on releases, a GPG signature which
+available, on all significant releases, a GPG signature which
 validates that the state of the source tree at that
 time is free of such influence and that no such activity
 has been detected or influence exerted.
